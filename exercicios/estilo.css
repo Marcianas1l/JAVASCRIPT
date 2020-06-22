@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background: pink;
+}
+header h1 {
+    text-align: center;
+}
+section {
+    background-color: #fff;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    border-radius: 10px;
+}
+section #texto {
+    width: 300px;
+    height: 50px;
+    margin: auto;
+}
+section #texto p {
+    color: #000;
+    line-height: 50px;
+    text-align: center;
+}
+section #foto {
+    width: 300px;
+    height: 220px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+section #imagem {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;   
+}
+footer {
+    text-align: center;
+    bottom: 0;
+}
