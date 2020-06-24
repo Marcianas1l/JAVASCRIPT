@@ -1,6 +1,6 @@
 # Aplicação de HTML5, CSS3 e um pouco de JAVASCRIPT 
 
-## ESTRTURAS CONDICIONAIS 
+## ESTRUTURAS CONDICIONAIS (If e Else)
 
 >"O conhecimento evolui quando é compartilhado." - Patrick Espake
 
