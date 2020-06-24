@@ -1,3 +1,3 @@
 # JAVASCRIPT
 
-https://marcianas1l.github.io/JAVASCRIPT/
+https://marcianas1l.github.io/horadodia/
