@@ -1,43 +1,44 @@
-* {
+
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background: pink;
 }
-
 header h1 {
     text-align: center;
-    padding: 20px;
-    font-family: 'MuseoModerno', cursive;
 }
-
 section {
-    font-family: 'Bree Serif', serif;
-    font-size: 18px;
-    background: #37B44E;
-    color: #fff;
+    background-color: #fff;
     width: 500px;
-    height: 350px;
-    margin: 0 auto;
+    height: 300px;
+    margin: auto;
     border-radius: 10px;
-    display: flex;
-    flex-direction: column;
 }
 section #texto {
-    padding: 10px;
+    width: 300px;
+    height: 50px;
+    margin: auto;
 }
 section #texto p {
-    padding: 5px;
+    color: #000;
+    line-height: 50px;
+    text-align: center;
 }
 section #foto {
-    width: 150px;
-    height: 150px;
-    border-radius: 200px;
+    width: 300px;
+    height: 220px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
 }
 section #imagem {
-    margin: 2px auto;
-    padding: 5px;
-    text-align: center
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;   
 }
-section #imagem #foto {
-    margin-top: 20px;
+footer {
+    text-align: center;
+    bottom: 0;
 }
