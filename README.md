@@ -1,4 +1,4 @@
-# Aplicação de HTML5, CSS3 e um pouco de JAVASCRIPT 
+# Aplicação de HTML5, CSS3 e JAVASCRIPT 
 
 ## ESTRUTURAS CONDICIONAIS (If e Else)
 
